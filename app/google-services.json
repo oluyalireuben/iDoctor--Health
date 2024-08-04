@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "386570259000",
+    "project_id": "idoctor-app-7eaae",
+    "storage_bucket": "idoctor-app-7eaae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386570259000:android:b42aeacb8cc52fb8c4f4cd",
+        "android_client_info": {
+          "package_name": "com.iDoctor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAk-ijgBnI29PLSuHSoe-2eL8FrpcHx9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386570259000:android:91be8b8e100275ecc4f4cd",
+        "android_client_info": {
+          "package_name": "com.timzowen.firenaselogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAk-ijgBnI29PLSuHSoe-2eL8FrpcHx9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
