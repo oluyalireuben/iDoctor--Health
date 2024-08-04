@@ -27,7 +27,6 @@ To get started with iDoctor Health, follow these steps:
 ## Download App
 [Click here to download the app](https://drive.google.com/file/d/1vGH9VKAxQPnFkfHxR3yPamp-UQiBMZwh/view?usp=sharing)
 
-
 ## Usage
 1. Open the iDoctor Health app on your device.
 2. Use the Hospital Locator to find nearby hospitals and medical facilities.
