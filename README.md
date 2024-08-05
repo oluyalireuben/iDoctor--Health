@@ -1,4 +1,4 @@
-iDoctor Health is a comprehensive healthcare application designed to help patients locate nearby hospitals and access a wide range of medical services, including emergency services, with a single touch. Developed using Kotlin for the core language and Firebase for all backend operations, iDoctor Health ensures a seamless and efficient user experience.
+iDoctor--Health is a comprehensive healthcare application designed to help patients locate nearby hospitals and access a wide range of medical services, including emergency services, with a single touch. Developed using Kotlin for the core language and Firebase for all backend operations, iDoctor Health ensures a seamless and efficient user experience.
 
 ## Features
 
